@@ -1,0 +1,97 @@
+body{
+	background-color: lightpink;
+
+}
+
+
+.Ingredients{
+	width: 100px;
+	background-color: lightyellow;
+	position: absolute; top: 75px;
+	padding-left: 20px;
+	padding-right: 40px;
+	font-family: 'ABeeZee';
+	}
+
+h1{
+	background-color: lightyellow;
+	text-align: center;
+	font-family: 'ABeeZee';
+
+
+}
+
+
+
+.vcaketitle{
+	width: 100px;
+	background-color: lightyellow;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: 'ABeeZee';
+
+
+} 
+
+.frostingtitle{
+	width: 120px;
+	background-color: lightyellow;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: 'ABeeZee';
+}
+
+.preptitle{
+	width: 100px;
+	background-color: lightyellow;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'ABeeZee';
+}
+
+.vcake{
+	position: absolute; top: 150px;
+}
+
+.frosting{
+	position: absolute; top: 500px;
+}
+
+.prep{
+	position: absolute; top: 50px;
+	left: 900px;
+
+	width: 400px;
+}
+
+.slicedcake{
+	position: absolute; top: 100px;
+	left: 500px;
+	top: 100px;
+}
+
+.whole{
+	position: absolute; top: 400px;
+	left: 500px;
+}
+
+li{
+	font-family: 'ABeeZee';
+	width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
